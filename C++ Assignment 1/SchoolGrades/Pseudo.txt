@@ -1,0 +1,31 @@
+//Michelle Hutchinson 
+This is a School Grading System.
+
+Start
+initialize/Declare function int main
+Initialize float average
+output "input your average score"
+input average
+
+if the average is more than or equal to 100
+    output "Invalid data. Please enter a score within 100".
+
+else if the average is more than or equal to 95
+    output "Your Score is A+".
+
+else if the average is equal to 90
+    output "Your Score is A"
+
+else if the average is more than or equal to 85
+    output "Your Score is B+"
+
+else if the average is more than or equal to 70
+    output "Your Score is B"
+
+else if the average is more than or equal to 65
+    output "Satisfactory"
+
+else if the average is less than 60
+    output "You failed"
+
+End

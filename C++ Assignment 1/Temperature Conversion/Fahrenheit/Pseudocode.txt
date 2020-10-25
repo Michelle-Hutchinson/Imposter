@@ -1,0 +1,29 @@
+//Michelle Hutchinson
+
+This Program Will Show the conversion of Celsius to Fahrenheit
+
+
+PseudoCode:
+
+Start
+Initialize class Fahrenheit
+
+initialize Fahrenheit in a protected abstraction
+Initialize Celsius in a public abstraction
+
+Connect a new clas named Temp with public class Fahrenheit
+set void function calc
+
+display/output/Print "Input Fahrenheit Temperature: "
+input Fahrenheit
+
+Calculate Celsius to Fahrenheit by multiplying Celsius degrees by 9/5 
+    Then add 32 to the remainder.
+
+Display message "(user input) Celsius is equal to (calculated info) Fahrenheit" 
+
+initialize main function
+
+Declare class object (Temp)
+call back object function (calc)
+End
